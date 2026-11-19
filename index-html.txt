@@ -65,7 +65,7 @@
 <script type="module">
   import { createChat } from 'https://cdn.jsdelivr.net/npm/@n8n/chat/dist/chat.bundle.es.js';
   createChat({
-    webhookUrl: 'ضع_رابط_الشات_هنا',
+    webhookUrl: https://esmae.app.n8n.cloud/webhook/25136a02-3be0-4825-9c71-5dd8b24c77bd/chat,
     initialMessages: ['أهلاً وسهلاً 👋', 'كيف أقدر أساعدك اليوم؟'],
     i18n: { en: { title: 'أهلاً بك 👋', subtitle: 'اسألني أي شي', footer: '', inputPlaceholder: 'اكتب رسالتك…', getStarted: 'محادثة جديدة' } }
   });
